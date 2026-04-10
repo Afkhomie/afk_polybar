@@ -1,5 +1,7 @@
 # AFK Polybar
 
+![AFK Polybar Screenshot](ScreenShot/photo.png)
+
 A modern and minimal polybar configuration with a beautiful Catppuccin Mocha theme. Features real-time system monitoring, music player controls, power management, and a sleek pill-style UI design.
 
 ## 📸 Features
